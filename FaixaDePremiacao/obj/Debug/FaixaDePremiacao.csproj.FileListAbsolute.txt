@@ -1,0 +1,10 @@
+C:\Users\patri\source\repos\TrabalhoNilton\FaixaDePremiacao\bin\Debug\FaixaDePremiacao.exe.config
+C:\Users\patri\source\repos\TrabalhoNilton\FaixaDePremiacao\bin\Debug\FaixaDePremiacao.exe
+C:\Users\patri\source\repos\TrabalhoNilton\FaixaDePremiacao\bin\Debug\FaixaDePremiacao.pdb
+C:\Users\patri\source\repos\TrabalhoNilton\FaixaDePremiacao\obj\Debug\FaixaDePremiacao.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\TrabalhoNilton\FaixaDePremiacao\obj\Debug\FaixaDePremiacao.Form1.resources
+C:\Users\patri\source\repos\TrabalhoNilton\FaixaDePremiacao\obj\Debug\FaixaDePremiacao.Properties.Resources.resources
+C:\Users\patri\source\repos\TrabalhoNilton\FaixaDePremiacao\obj\Debug\FaixaDePremiacao.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\TrabalhoNilton\FaixaDePremiacao\obj\Debug\FaixaDePremiacao.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\TrabalhoNilton\FaixaDePremiacao\obj\Debug\FaixaDePremiacao.exe
+C:\Users\patri\source\repos\TrabalhoNilton\FaixaDePremiacao\obj\Debug\FaixaDePremiacao.pdb
